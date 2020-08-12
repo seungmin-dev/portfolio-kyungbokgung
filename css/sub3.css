@@ -1,0 +1,192 @@
+@charset="utf-8";
+
+
+#hd{
+    width: 100%;
+    height: 70px;
+    clear: both;
+}
+#hd .logo{
+    display: block;
+    width: 95px;
+    height: 65px;
+    float: left;
+    margin-left: 10px;
+}
+#hd .logo img{
+    display: block;
+    width: 100%;
+    height: auto;
+    margin-top: 10px;
+}
+#ck1{
+    display: none;
+}
+.page{
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+.textBox{
+    width: 85%;
+    height: 50%;
+    margin: 0 auto;
+}
+#page1{
+    margin-top: 50px;
+    height: auto;
+}
+#page1 a img{
+    float: right;
+    display: block;
+    width: 35px;
+    height: auto;
+    margin-top: 4px;
+    margin-right: 3px;
+    margin-left: -3px;
+}
+#page1 img{
+    display: block;
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
+img{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+
+.page{
+    width: 100%;
+    margin: 0 auto;
+}
+.textBox{
+    width: 85%;
+    height: 30%;
+    margin: 0 auto;
+}
+#page1{
+    margin-top: 30px;
+}
+#page1 a img{
+    float: right;
+    display: block;
+    width: 35px;
+    height: auto;
+    margin-top: 4px;
+    margin-right: 3px;
+    margin-left: -3px;
+}
+#page1 img{
+    display: block;
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+.title1{
+    text-align: center;
+    font-size: 1.9rem;
+    margin-bottom: 5px;
+}
+.titleSub{
+    font-size: 0.85rem;
+    text-align: center;
+    color: #aaa;
+    line-height: 1.6rem;
+    padding-bottom: 50px;
+}
+.softLine{
+    width: 100%;
+    height: 1px;
+    background-color: #aaa;
+    margin: 20px auto; 
+}
+
+.subTxt{
+    color: #777;
+    font-size: 0.9rem;
+    line-height: 1.65rem;
+}
+.input{
+    width: 98%;
+    height: 35px;
+    outline: 0;
+    border: 0;
+    border-bottom: 1px solid #eaeaea;
+    text-indent: 10px;
+    line-height: 35px;
+    font-size: 1rem;
+    color: #ababab;
+    margin: 10px 0;
+}
+::placeholder{
+    color: #ababab;
+}
+.subTxt.last{
+    padding-top: 50px;
+}
+button{
+    width: 50%;
+    height: 40px;
+    outline: 0;
+    border: 0;
+    background-color: transparent;
+    border: 1px solid #aaa;
+    line-height: 40px;
+    font-size: 1.05rem;
+    text-align: center;
+    display: block;
+    font-family: 'nm';
+    float: right;
+}
+
+
+#ft{
+    margin-top: 150px;
+    height: 90%;
+}
+#ft h3{
+    margin-bottom: 50px;
+    color: #555;
+}
+#ft li{
+    display: block;
+    padding: 20px 0;
+}
+#ft .text{
+    line-height: 1.8;
+}
+#ft .beforeCP{
+    margin-bottom: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
